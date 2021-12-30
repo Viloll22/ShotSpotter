@@ -12,6 +12,5 @@ Esto es exactamente lo mismo que RedRums, excepto que puedes editar el código y
 * Comprueba si el arma tiene un supresor, si lo tiene, no hará nada.
 
 ## Vista previa
-[vista previa]
 * (https://cdn.discordapp.com/attachments/846570792040267846/847357150778359818/unknown.png)
 * (https://cdn.discordapp.com/attachments/846570792040267846/847357323727077397/unknown.png)
