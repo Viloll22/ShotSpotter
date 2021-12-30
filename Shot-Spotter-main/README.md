@@ -1,25 +1,16 @@
-# Shot Spotter
- This is the exact same thing as RedRums except you can actually edit the code its also free too. More features added like example use discord or ace perms, use chat etc.. In collaboration w/ @NAT2K15
+# Spotter de tiro
+Esto es exactamente lo mismo que RedRums, excepto que puedes editar el código y también es gratis. Se agregaron más funciones, como ejemplo, use discord o as perms, use chat, etc. 
 
-## Features
-* Standalone
-* Simple commands
-* Drag & drop
-* Use discord or ace perms
-* Simple to setup
-* Chose between chat or a small notification
-* Perms based
-* Checks if the weapon has a suppressor on if it does it wont do anything
+## Características
+* Ser único
+* Comandos simples
+* Arrastrar y soltar
+* Use discord o ace permanentes
+* Fácil de configurar
+* Elija entre chat o una pequeña notificación
+* Basado en permanentes
+* Comprueba si el arma tiene un supresor, si lo tiene, no hará nada.
 
-## Credits
-* Discord perms [@sadboilogan](https://github.com/sadboilogan)
-* Collaborated On This Project: [@NAT2K15](https://github.com/NAT2K15)
-
-## Preview
-![preview](https://cdn.discordapp.com/attachments/846570792040267846/847357150778359818/unknown.png)
-![preview](https://cdn.discordapp.com/attachments/846570792040267846/847357323727077397/unknown.png)
-
-
-## Discords
-* [Rocket Development](https://rocketdev.zone)
-* [NAT2K15 Development](https://discord.gg/RquDVTfDwu)
+## Vista previa
+! [vista previa] (https://cdn.discordapp.com/attachments/846570792040267846/847357150778359818/unknown.png)
+! [vista previa] (https://cdn.discordapp.com/attachments/846570792040267846/847357323727077397/unknown.png)
